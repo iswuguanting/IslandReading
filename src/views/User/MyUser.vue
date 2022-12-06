@@ -49,7 +49,7 @@ const phone = () => {
 
         <main class="contengs">
             <div class="contengs-nei">
-                岛读
+                海阅读
             </div>
 
             <div class="Select-login">
